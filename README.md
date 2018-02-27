@@ -19,7 +19,7 @@ Barfly is more than just a beer finder!
     * This will be integrated through the Google Cloud Platform Natural Language API
 
 # Diagrams
-[ER Diagram](Barfly/Barfly\ Documents/Barfly_ER_Diagram.pdf)
+[ER Diagram](./BarflyDocuments/Barfly_ER_Diagram.pdf)
 
 # Developer Information
 * On the Barfly project we will be developing in Qt 5.10.1.
