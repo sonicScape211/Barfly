@@ -1,6 +1,9 @@
 # Barfly
 A mobile application for Android and iOS that allows users and businesses to post or report what restaurants/tap houses/breweries have on tap. Barfly allows beer enthusiasts to be up-to-date on the latest releases from their favorite breweries or pubs and provides notifications of upcoming events or specials. Barfly is business friendly and cultivates a social-media centric marketing environment with immediate access to interested customers. Barfly businesses are able to view and respond to user reviews and see what taps Barfly users are posting about most in regards to their tap list.
 
+# Vision Statement
+Barfly is the only way to go when it comes to keeping up with what taps are where. With so many craft breweries popping up every year keeping track of what is happening in the beer world can be daunting for even the most interest enthusiasts. With barfly though, we are making this a breeze. Users get updates when their favorite beers are put on tap or when their favorite breweries put out something new. Though unlike Barly or Untapped we offer our verified businesses the chance to leverage Google's Native Language API to breakdown what consumers are saying about the beers that they already have on tap or the ones they are looking to get. Barfly also offers businesses the option of inviting users to events to help promote their businesses!
+
 # Features
 Barfly is more than just a beer finder!
 * It keeps all of your favorite beers saved to your profile so you can find them later.
